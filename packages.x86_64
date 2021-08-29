@@ -116,3 +116,8 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+# Custom packages:
+fish
+archinstall
+
